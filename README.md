@@ -1,50 +1,46 @@
-# Follow these steps to complete the challenge:
+# Horiseon
 
-    Clone your starter code (Links to an external site.).
+## Description
 
-    Refactor the code to meet the Acceptance Criteria.
+This is a frontend page for a small tech company. Its main purpose is to demonstrate a specific theme that could be used for a tech or service related company.
+![](horiseon.png)
 
-    Make sure your work meets the full list of grading requirements.
 
-    Follow the instructions to submit your Challenge for review.
+## Table of Contents
 
- # Grading Requirements
-This challenge is graded based on the following criteria:
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
 
-# Technical Acceptance Criteria: 40%
-    Satisfies all of the preceding acceptance criteria plus the following code improvements:
 
-    Application's links all function correctly.
+## Installation
 
-    Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+You can install this by opening up the page on GitHub and cloning it to your computer using bash or terminal. Once cloned it can be opened up on VS Code.
 
-    Application's CSS file is properly commented.
+Please see video link for a walk through on how to clone it.
 
-# Deployment: 32%
-    Application deployed at live URL.
+[Clone to your computer](https://drive.google.com/file/d/15ogCY3Q-JLWhteoSiIoXLkhtK4Z0-mfz/view?usp=sharing "Click Me!")
+<br><br>
 
-    Application loads with no errors.
 
-    Application GitHub URL submitted.
 
-    GitHub repository that contains application code.
 
-# Application Quality: 15%
-    Application resembles (at least 90%) screenshots provided in challenge instructions.
 
-Repository Quality: 13%
-    Repository has a unique name.
+## Usage
 
-    Repository follows best practices for file structure and naming conventions.
+This is mainly used as a template for someone that may be interested in building their own company.
 
-    Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
-    Repository contains multiple descriptive commit messages.
+## License
 
-    Repository contains quality README file with description, screenshot, and link to deployed application.
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-    Code Refactor Starter Code
+---
 
-# web page Screen shot
-https://courses.bootcampspot.com/courses/1100/files/1251224/preview
+
+
+## Contact Me
+
+Github: jamesfillerup
+james@fillerupdev.com
 
